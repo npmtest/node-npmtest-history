@@ -1,4 +1,7 @@
-# test coverage for  [history (v4.6.1)](https://github.com/reacttraining/history#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-history.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-history) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-history.svg)](https://travis-ci.org/npmtest/node-npmtest-history)
+# npmtest-history
+
+#### basic test coverage for  [history (v4.6.1)](https://github.com/reacttraining/history#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-history.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-history) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-history.svg)](https://travis-ci.org/npmtest/node-npmtest-history)
+
 #### Manage session history with JavaScript
 
 [![NPM](https://nodei.co/npm/history.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/history)
